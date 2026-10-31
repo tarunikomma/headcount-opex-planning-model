@@ -1,6 +1,6 @@
 # Tableau Dashboard — FY2027 Headcount & OpEx
 
-An interactive Tableau Public dashboard built on the output of the Excel [Headcount & OpEx Planning Model](../). It lets a business partner switch between the four hiring scenarios and see total spend against the $15.0M leadership ceiling, spend by department, monthly cost trend and headcount growth.
+An interactive Tableau Public dashboard built on the output of the Excel [Headcount & OpEx Planning Model](README.md). It lets a business partner switch between the four hiring scenarios and see total spend against the $15.0M leadership ceiling, spend by department, monthly cost trend and headcount growth.
 
 **Live dashboard:** _add your Tableau Public link here_
 
